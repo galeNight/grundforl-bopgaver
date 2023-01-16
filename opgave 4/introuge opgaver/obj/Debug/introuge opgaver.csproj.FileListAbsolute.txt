@@ -1,0 +1,6 @@
+C:\Users\Bruger\source\repos\opgave 4\introuge opgaver\obj\Debug\introuge opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 4\introuge opgaver\bin\Debug\introuge opgaver.exe.config
+C:\Users\Bruger\source\repos\opgave 4\introuge opgaver\bin\Debug\introuge opgaver.exe
+C:\Users\Bruger\source\repos\opgave 4\introuge opgaver\bin\Debug\introuge opgaver.pdb
+C:\Users\Bruger\source\repos\opgave 4\introuge opgaver\obj\Debug\introuge opgaver.exe
+C:\Users\Bruger\source\repos\opgave 4\introuge opgaver\obj\Debug\introuge opgaver.pdb
