@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\bin\Debug\opgave 42.exe.config
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\bin\Debug\opgave 42.exe
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\bin\Debug\opgave 42.pdb
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\obj\Debug\opgave 42.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\obj\Debug\opgave 42.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\obj\Debug\opgave 42.exe
+C:\Users\Bruger\source\repos\opgave 42\opgave 42\obj\Debug\opgave 42.pdb
