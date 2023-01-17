@@ -1,0 +1,6 @@
+C:\Users\Bruger\source\repos\opgave 56\opgave 56\bin\Debug\opgave 56.exe.config
+C:\Users\Bruger\source\repos\opgave 56\opgave 56\bin\Debug\opgave 56.exe
+C:\Users\Bruger\source\repos\opgave 56\opgave 56\bin\Debug\opgave 56.pdb
+C:\Users\Bruger\source\repos\opgave 56\opgave 56\obj\Debug\opgave 56.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 56\opgave 56\obj\Debug\opgave 56.exe
+C:\Users\Bruger\source\repos\opgave 56\opgave 56\obj\Debug\opgave 56.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\bin\Debug\opgave 49.exe.config
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\bin\Debug\opgave 49.exe
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\bin\Debug\opgave 49.pdb
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\obj\Debug\opgave 49.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\obj\Debug\opgave 49.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\obj\Debug\opgave 49.exe
+C:\Users\Bruger\source\repos\opgave 49\opgave 49\obj\Debug\opgave 49.pdb
