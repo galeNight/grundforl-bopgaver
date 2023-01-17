@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave26\opgave26\bin\Debug\opgave26.exe.config
+C:\Users\Bruger\source\repos\opgave26\opgave26\bin\Debug\opgave26.exe
+C:\Users\Bruger\source\repos\opgave26\opgave26\bin\Debug\opgave26.pdb
+C:\Users\Bruger\source\repos\opgave26\opgave26\obj\Debug\opgave26.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave26\opgave26\obj\Debug\opgave26.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave26\opgave26\obj\Debug\opgave26.exe
+C:\Users\Bruger\source\repos\opgave26\opgave26\obj\Debug\opgave26.pdb

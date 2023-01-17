@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\tempatur\tempatur\bin\Debug\tempatur.exe.config
+C:\Users\Bruger\source\repos\tempatur\tempatur\bin\Debug\tempatur.exe
+C:\Users\Bruger\source\repos\tempatur\tempatur\bin\Debug\tempatur.pdb
+C:\Users\Bruger\source\repos\tempatur\tempatur\obj\Debug\tempatur.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\tempatur\tempatur\obj\Debug\tempatur.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\tempatur\tempatur\obj\Debug\tempatur.exe
+C:\Users\Bruger\source\repos\tempatur\tempatur\obj\Debug\tempatur.pdb
