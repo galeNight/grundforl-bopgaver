@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\bin\Debug\opgave 19.exe.config
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\bin\Debug\opgave 19.exe
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\bin\Debug\opgave 19.pdb
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\obj\Debug\opgave 19.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\obj\Debug\opgave 19.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\obj\Debug\opgave 19.exe
+C:\Users\Bruger\source\repos\opgave 19\opgave 19\obj\Debug\opgave 19.pdb

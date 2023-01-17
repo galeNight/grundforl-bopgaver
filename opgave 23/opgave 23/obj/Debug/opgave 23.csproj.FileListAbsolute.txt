@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\bin\Debug\opgave 23.exe.config
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\bin\Debug\opgave 23.exe
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\bin\Debug\opgave 23.pdb
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\obj\Debug\opgave 23.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\obj\Debug\opgave 23.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\obj\Debug\opgave 23.exe
+C:\Users\Bruger\source\repos\opgave 23\opgave 23\obj\Debug\opgave 23.pdb
