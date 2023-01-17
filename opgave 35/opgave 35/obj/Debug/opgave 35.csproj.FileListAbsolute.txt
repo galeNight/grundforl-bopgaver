@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\bin\Debug\opgave 35.exe.config
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\bin\Debug\opgave 35.exe
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\bin\Debug\opgave 35.pdb
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\obj\Debug\opgave 35.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\obj\Debug\opgave 35.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\obj\Debug\opgave 35.exe
+C:\Users\Bruger\source\repos\opgave 35\opgave 35\obj\Debug\opgave 35.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\bin\Debug\opgave 34.exe.config
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\bin\Debug\opgave 34.exe
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\bin\Debug\opgave 34.pdb
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\obj\Debug\opgave 34.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\obj\Debug\opgave 34.exe
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\obj\Debug\opgave 34.pdb
+C:\Users\Bruger\source\repos\opgave 34\opgave 34\obj\Debug\opgave 34.csproj.AssemblyReference.cache
