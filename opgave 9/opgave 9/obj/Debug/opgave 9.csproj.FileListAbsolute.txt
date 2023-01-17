@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\bin\Debug\opgave 9.exe.config
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\bin\Debug\opgave 9.exe
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\bin\Debug\opgave 9.pdb
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\obj\Debug\opgave 9.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\obj\Debug\opgave 9.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\obj\Debug\opgave 9.exe
+C:\Users\Bruger\source\repos\opgave 9\opgave 9\obj\Debug\opgave 9.pdb

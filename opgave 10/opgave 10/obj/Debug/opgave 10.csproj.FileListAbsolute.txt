@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\bin\Debug\opgave 10.exe.config
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\bin\Debug\opgave 10.exe
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\bin\Debug\opgave 10.pdb
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\obj\Debug\opgave 10.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\obj\Debug\opgave 10.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\obj\Debug\opgave 10.exe
+C:\Users\Bruger\source\repos\opgave 10\opgave 10\obj\Debug\opgave 10.pdb
