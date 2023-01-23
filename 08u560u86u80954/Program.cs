@@ -18,6 +18,7 @@
                 Console.WriteLine("indtast password");
                 password = Console.ReadLine();
                 forsøg++;
+                Console.WriteLine("forker password du har nu brugt {0} forsøg", forsøg);
             }
             while (password != "tec321" && forsøg != 5);
 
