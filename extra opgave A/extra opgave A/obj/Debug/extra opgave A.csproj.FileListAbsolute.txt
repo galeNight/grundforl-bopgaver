@@ -1,0 +1,8 @@
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\bin\Debug\extra opgave A.exe.config
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\bin\Debug\extra opgave A.exe
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\bin\Debug\extra opgave A.pdb
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\obj\Debug\extra opgave A.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\obj\Debug\extra opgave A.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\obj\Debug\extra opgave A.exe
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\obj\Debug\extra opgave A.pdb
+C:\Users\Bruger\source\repos\extra opgave A\extra opgave A\obj\Debug\extra opgave A.csproj.SuggestedBindingRedirects.cache
