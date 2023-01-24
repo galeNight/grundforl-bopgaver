@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\bin\Debug\extra opgaver G.exe.config
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\bin\Debug\extra opgaver G.exe
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\bin\Debug\extra opgaver G.pdb
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\obj\Debug\extra opgaver G.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\obj\Debug\extra opgaver G.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\obj\Debug\extra opgaver G.exe
+C:\Users\Bruger\source\repos\extra opgaver G\extra opgaver G\obj\Debug\extra opgaver G.pdb

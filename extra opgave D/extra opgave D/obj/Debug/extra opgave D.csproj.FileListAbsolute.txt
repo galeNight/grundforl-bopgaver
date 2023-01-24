@@ -1,0 +1,6 @@
+C:\Users\Bruger\source\repos\extra opgave D\extra opgave D\bin\Debug\extra opgave D.exe.config
+C:\Users\Bruger\source\repos\extra opgave D\extra opgave D\bin\Debug\extra opgave D.exe
+C:\Users\Bruger\source\repos\extra opgave D\extra opgave D\bin\Debug\extra opgave D.pdb
+C:\Users\Bruger\source\repos\extra opgave D\extra opgave D\obj\Debug\extra opgave D.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\extra opgave D\extra opgave D\obj\Debug\extra opgave D.exe
+C:\Users\Bruger\source\repos\extra opgave D\extra opgave D\obj\Debug\extra opgave D.pdb
